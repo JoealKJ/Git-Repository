@@ -1,0 +1,56 @@
+*   [33mcommit 070e73f9a29648c9ddebb2fb673ee801d08d1ec0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: e2795ef 8c39607
+[31m|[m [32m|[m Author: joeal k j <joealjose7336@gmail.com>
+[31m|[m [32m|[m Date:   Fri Oct 2 19:13:04 2020 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature' into master
+[31m|[m [32m|[m     seperate branches merged
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 8c396076fa446c5bc049317223de34d8e3580373[m[33m ([m[1;32mfeature[m[33m)[m
+[31m|[m [32m|[m Author: joeal k j <joealjose7336@gmail.com>
+[31m|[m [32m|[m Date:   Fri Oct 2 18:08:28 2020 +0530
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     hello file modified
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit e2795ef03159657e452572b27f472a510d4b2fbf[m
+[32m|[m[32m/[m  Author: joeal k j <joealjose7336@gmail.com>
+[32m|[m   Date:   Fri Oct 2 17:41:01 2020 +0530
+[32m|[m   
+[32m|[m       hey file modified
+[32m|[m   
+[32m|[m * [33mcommit 543d1638def31709905bed66b37b3918f704bd30[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[32m|[m[32m/[m[34m|[m Merge: 1edba3a b560fd6
+[32m|[m [34m|[m Author: joeal k j <joealjose7336@gmail.com>
+[32m|[m [34m|[m Date:   Fri Oct 2 17:27:22 2020 +0530
+[32m|[m [34m|[m 
+[32m|[m [34m|[m     WIP on feature: 1edba3a hey file edited
+[32m|[m [34m|[m 
+[32m|[m * [33mcommit b560fd69f1f769a18fd0d347fbe29c97468d3bd1[m
+[32m|[m[32m/[m  Author: joeal k j <joealjose7336@gmail.com>
+[32m|[m   Date:   Fri Oct 2 17:27:22 2020 +0530
+[32m|[m   
+[32m|[m       index on feature: 1edba3a hey file edited
+[32m|[m 
+* [33mcommit 1edba3ae013da232f94c5840f6b6cb08b8690a97[m
+[34m|[m Author: joeal k j <joealjose7336@gmail.com>
+[34m|[m Date:   Fri Oct 2 11:50:24 2020 +0530
+[34m|[m 
+[34m|[m     hey file edited
+[34m|[m 
+* [33mcommit 2df37cdc58f5b0e81e3e53fe84903c218c28995a[m
+[34m|[m Author: joeal k j <joealjose7336@gmail.com>
+[34m|[m Date:   Fri Oct 2 01:51:27 2020 +0530
+[34m|[m 
+[34m|[m     Second file added
+[34m|[m 
+* [33mcommit 1af43276773851c00cca9f7732b81eb751c9ea47[m
+[34m|[m Author: joealjose7336@gmail.com <joealjose7336@gmail.com>
+[34m|[m Date:   Thu Oct 1 13:11:58 2020 +0530
+[34m|[m 
+[34m|[m     added some messages
+[34m|[m 
+* [33mcommit b25cec45289e4fab8c27c65ba16b07747ee1f32e[m
+  Author: joealjose7336@gmail.com <joealjose7336@gmail.com>
+  Date:   Thu Oct 1 11:41:11 2020 +0530
+  
+      Initial Commit
